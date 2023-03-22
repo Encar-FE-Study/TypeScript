@@ -25,8 +25,8 @@
 ### 발표순서
 
 1. 송승찬 (23.3.15) => 4-Pick, 7-Readonly
-2. 오훈
-3. 김동원
+2. 오훈 (23.3.22) => 11-TupeToObject, 14-FirstOfArray
+3. 김동원 (23.3.29) => 18-LengthOfTuple, 43-Exclude
 4. 박상준
 5. 김정인
 6. 반영훈
