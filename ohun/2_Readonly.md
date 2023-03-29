@@ -23,7 +23,10 @@ interface Todo1 {
 ```
 
 # 설명
+
 readonly: 읽기전용
+
 keyof: 타입지정
+
 in: 찾기
 
