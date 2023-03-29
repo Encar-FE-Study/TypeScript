@@ -8,3 +8,4 @@ type spaceXLength = Length<spaceX> // expected 5
 ```
 
 type Length<T extends readonly any[]> = T['length']
+type Length<T> = T extends {length:infer R} ? R :never
