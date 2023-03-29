@@ -51,3 +51,6 @@ interface Expected2 {
 
 - https://joshua1988.github.io/ts/guide/generics.html#%EC%A0%9C%EB%84%A4%EB%A6%AD-%ED%83%80%EC%9E%85-%EB%B3%80%EC%88%98
 - https://kyounghwan01.github.io/blog/TS/fundamentals/utility-types/#partial
+
+
+

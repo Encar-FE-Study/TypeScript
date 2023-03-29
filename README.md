@@ -2,11 +2,12 @@
 
 ## Content
 
-[스터디 챌린지 링크](https://github.com/type-challenges/type-challenges)
+[스터디 챌린지 링크](https://github.com/type-challenges/type-challenges/blob/main/README.ko.md)
 
 - 레벨 Easy, Medium 문제(총 13+78 = 91문제) 주 1회 2문제씩 풀고 로테이션 발표. => 어떻게 풀었는지, 풀면서 알게된 점, 어려웠던 점 공유. (예상시간 30분이내)
 
 - 각자 폴더에 주차별 업로드 진행 (kimdongwon/example 참고).
+- [키워드 사전 및 Study 내용 간단 정리](./Content.md)
 
 ## Member
 
@@ -25,8 +26,8 @@
 ### 발표순서
 
 1. 송승찬 (23.3.15) => 4-Pick, 7-Readonly
-2. 오훈
-3. 김동원
+2. 오훈 (23.3.22) => 11-TupeToObject, 14-FirstOfArray
+3. 김동원 (23.3.29) => 18-LengthOfTuple, 43-Exclude
 4. 박상준
 5. 김정인
 6. 반영훈

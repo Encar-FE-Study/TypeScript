@@ -32,8 +32,11 @@ interface Expected2 {
 ```
 
 # 설명
+
 extends: 추가
+
 keyof: 타입지정
+
 in: 찾기
 
 찾으려는 key와 value
