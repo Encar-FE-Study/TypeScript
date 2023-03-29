@@ -2,7 +2,7 @@
 
 ## Content
 
-[스터디 챌린지 링크](https://github.com/type-challenges/type-challenges)
+[스터디 챌린지 링크](https://github.com/type-challenges/type-challenges/blob/main/README.ko.md)
 
 - 레벨 Easy, Medium 문제(총 13+78 = 91문제) 주 1회 2문제씩 풀고 로테이션 발표. => 어떻게 풀었는지, 풀면서 알게된 점, 어려웠던 점 공유. (예상시간 30분이내)
 

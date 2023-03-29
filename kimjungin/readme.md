@@ -11,3 +11,9 @@ https://succulent-dog-eb0.notion.site/11-Tuple-to-Object-5e9282ba6d194fe8a21f064
 
 ## 14 - First of Array
 https://succulent-dog-eb0.notion.site/14-First-of-Array-e815cb6ace13474fa56feadf170320df
+
+## 18 - Length of Tuple
+https://succulent-dog-eb0.notion.site/18-Length-of-Tuple-b173aae4f4a54c1cabba3e17b05d3076
+
+## 24 - Exclude
+https://succulent-dog-eb0.notion.site/43-Exclude-2ad31f43361446bf98de98723aa0f5db
