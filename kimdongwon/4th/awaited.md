@@ -52,3 +52,17 @@ type error = MyAwaited<number>
   > 정답 보기: https://tsch.js.org/189/solutions
   > 다른 문제들: https://tsch.js.org/ko
 */
+
+## 알게된 점
+
+- promise 타입에서 반환되는 값을 추출하는 유틸리티 타입. 즉, await 키워드로 promise를 대기하고 해당 promise가 해결될 때 반환되는 값을 추출하여 타입으로 정의하는 타입.
+- promiseLike랑 구분해서 사용. promise는 내부적으로 상태와 결과를 갖는다. pending, fulfiled, rejected 와 같은 3가지 상태를 갖으며 각각의 상태에 대한 결과값이 존재한다. 반면, PromiseLike 객체는 Promise와 유사한 동작을 하는 객체를 추상화하는 인터페이스일 뿐이며, 그 자체로는 내부 상태나 결과값을 갖지 않는다. 
+- never 타입은 절대 발생할 수 없는 타입을 나타냄.
+- void는 함수 한정.
+
+
+## 종하과장님 질문
+
+- never란? 무슨타입?
+- type alias vs interface 차이.
+- 테스트케이스를 하나하나 맞춰가면서 풀어보기.

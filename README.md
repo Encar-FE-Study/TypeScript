@@ -28,12 +28,12 @@
 1. 송승찬 (23.3.15) => 4-Pick, 7-Readonly
 2. 오훈 (23.3.22) => 11-TupeToObject, 14-FirstOfArray
 3. 김동원 (23.3.29) => 18-LengthOfTuple, 43-Exclude
-4. 박상준
-5. 김정인
-6. 반영훈
-7. 박종하
-8. 이용준
-9. 조승희
+4. 김정인 (23.04.05) => 189-Awaited, 268-If
+5. 박상준 (23.04.12) => 533-Concat, 898-Includes
+6. 반영훈 (23.04.19) => 3057-Push, 3060-Unshift
+7. 박종하 (23.04.26) => 3312-Parameters, 2-Get_Return_Type
+8. 이용준 (23.05.3) => 3-Omit, 8-Readonly2
+9. 조승희 (23.05.10) => 10-TurnToUnion, 12-ChainableOptions
 
 ## 상의해야할 점
 
