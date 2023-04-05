@@ -40,14 +40,13 @@
             
             IExample1(10); // Argument of type 'number' is not assignable to parameter of type 'string'
             ```
-        - 제네릭 타입의 조건을 만족할 때 적용되는 타입을 지정하는데 사용
+        - 제네릭 타입의 조건을 만족할 때 적용되는 타입을 지정하는데 사용  
             ```TS
             type IExample1<T> = T extends string ? string : never;
 
             const ex1:IExample1<string> = 'example';
             const ex2:IExample1<number> = 10; // Type 'number' is not assignable to type 'never'.
             ```
-            
     2. [infer](https://dev-boku.tistory.com/entry/%EB%B2%88%EC%97%AD-%EC%A0%84%EB%AC%B8%EA%B0%80%EC%B2%98%EB%9F%BC-%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-infer-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0)
         - 제네릭 타입에서 타입 매개변수를 추론하는 기능을 제공하는 키워드
         - **오직 extends 제네릭 조건부 타입에서 사용**
@@ -74,7 +73,13 @@
           - Interface는 객체의 구조를 정의하는 데 사용
           - 객체의 프로퍼티 이름, 타입 및 메소드를 정의하여 해당 객체가 가져야 할 모양을 정의
 
-
+    5. tuple 타입
+        - 고정된 요소의 수와 각 요소의 타입이 정의된 배열
+        - 배열과 비슷하지만, 배열 요소의 개수와 타입이 미리 정의된다는 차이점이 있음
+             ```TS
+            let IExample1: [string, number, boolean] = ["hi", 100, true];
+            ```       
+   
 ## 참고 링크 정리
 
 1주차
