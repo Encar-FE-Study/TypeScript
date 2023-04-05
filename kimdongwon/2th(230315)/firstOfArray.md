@@ -56,3 +56,7 @@ type errors = [
 ## 참고
 
 - https://bohyeon-n.github.io/deploy/typescript/typechallenges-2.html
+
+
+symbol, never 타입 체크해보기
+infer

@@ -12,9 +12,6 @@ by Zheeeng (@zheeeng) #쉬움 #built-in #union
   type Result = MyExclude<'a' | 'b' | 'c', 'a'> // 'b' | 'c'
   ```
 
-> GitHub에서 보기: https://tsch.js.org/43/ko
-*/
-
 /* _____________ 여기에 코드 입력 _____________ */
 
 ```ts
