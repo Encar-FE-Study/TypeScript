@@ -29,11 +29,3 @@ https://succulent-dog-eb0.notion.site/189-Awaited-231c66949f184dea84694c659142d8
 
 ## 268 - If
 https://succulent-dog-eb0.notion.site/268-If-532606d10e014158907acd8ea9671ed0
-
-# 5 week
-
-## 533 - Concat
-https://succulent-dog-eb0.notion.site/533-Concat-8b41436d037c4ed5b31478b2217c2f6e
-
-## 898 - Includes
-https://succulent-dog-eb0.notion.site/898-Includes-e15c0eaf4f9642af9091fbf87c5b8dca
