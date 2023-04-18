@@ -18,4 +18,4 @@ type isPillarMen = Includes<['Kars', 'Esidisi', 'Wamuu', 'Santana'], 'Dio'> // e
 Index Types, keyof
 
 Result
-
+ㅌ3
