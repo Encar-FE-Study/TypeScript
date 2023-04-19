@@ -37,3 +37,11 @@ https://succulent-dog-eb0.notion.site/533-Concat-8b41436d037c4ed5b31478b2217c2f6
 
 ## 898 - Includes
 https://succulent-dog-eb0.notion.site/898-Includes-e15c0eaf4f9642af9091fbf87c5b8dca
+
+# 6 week
+
+## 3058 - Push
+https://succulent-dog-eb0.notion.site/3058-Push-a63cec6ce2cd407fb496946a38b71721
+
+## 3060 - Unshift
+https://succulent-dog-eb0.notion.site/3060-Unshift-e15c0eaf4f9642af9091fbf87c5b8dca
