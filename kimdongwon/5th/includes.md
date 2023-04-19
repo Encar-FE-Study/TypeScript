@@ -18,7 +18,8 @@
 
 /* _____________ 여기에 코드 입력 _____________ */
 
-type Includes<T extends readonly any[], U> = T extends [infer First, ...infer Rest] ? Equal <First, U> extends true ? true : Includes<Rest,U> : false;
+type Includes<T extends readonly any[], U> = T extends [infer First, ...infer Rest] 
+? Equal <First, U> extends true ? true : Includes<Rest,U> : false;
 // {
 //   [K in T[number]]: true
 // }[U] extends true ? true : false;
