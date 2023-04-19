@@ -35,3 +35,9 @@ type cases = [
   > 정답 보기: https://tsch.js.org/3060/solutions
   > 다른 문제들: https://tsch.js.org/ko
 */
+
+## 알게된 점
+
+- 타입가드. unknown
+- You should prefer interface. Use type when you need specific features.
+  - https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html
