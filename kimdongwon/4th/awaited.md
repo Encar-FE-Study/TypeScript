@@ -64,5 +64,10 @@ type error = MyAwaited<number>
 ## 종하과장님 질문
 
 - never란? 무슨타입?
-- type alias vs interface 차이.
+- type alias vs interface 차이. interface내에 제네릭 사용불가? 
+  - interface는 재정의가 안됨
+  - type alias는 인터섹션 타입을 사용하고 interface는 상속을 사용한다.
+  - type alias는 union 타입이나 tuple 타입을 정의할 수 있다.
+  - interface는 객체 지향적인 개념을 정의할 수 있다.
+  - 디버깅 시 type alias가 좀 더 직관적으로 잘 보여줌. interface는 내부 객체를 보여줘서 파악하기가 힘듬.
 - 테스트케이스를 하나하나 맞춰가면서 풀어보기.
