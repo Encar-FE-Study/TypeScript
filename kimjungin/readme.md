@@ -45,3 +45,16 @@ https://succulent-dog-eb0.notion.site/3058-Push-a63cec6ce2cd407fb496946a38b71721
 
 ## 3060 - Unshift
 https://succulent-dog-eb0.notion.site/3060-Unshift-e15c0eaf4f9642af9091fbf87c5b8dca
+
+# 7 week
+
+## 3312 - Parameters
+https://succulent-dog-eb0.notion.site/3312-Parameters-4d66b9e2f7504917bea3a45d6027e056
+
+## 2 - Get Return Type
+https://succulent-dog-eb0.notion.site/2-Get-Return-Type-ed6b3deb4c614bfa833c743151b5e43a
+
+# 8 week
+
+## 3 - Omit
+https://succulent-dog-eb0.notion.site/3-Omit-6797eecde038425eb56237ccda4e79dd
