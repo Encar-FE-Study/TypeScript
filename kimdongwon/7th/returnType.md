@@ -55,3 +55,8 @@ const fn1 = (v: boolean, w: any) => v ? 1 : 2
   > 정답 보기: https://tsch.js.org/2/solutions
   > 다른 문제들: https://tsch.js.org/ko
 */
+
+
+## 알게된 점
+
+- returnType 내장 함수로 return 하는 값을 사용하는 곳에서 추론이 가능하게 하는 기능
