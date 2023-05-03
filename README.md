@@ -5,6 +5,7 @@
 [스터디 챌린지 링크](https://github.com/type-challenges/type-challenges/blob/main/README.ko.md)
 
 - 레벨 Easy, Medium 문제(총 13+78 = 91문제) 주 1회 2문제씩 풀고 로테이션 발표. => 어떻게 풀었는지, 풀면서 알게된 점, 어려웠던 점 공유. (예상시간 30분이내)
+- 식사하면서 [TypeScript 영상](https://www.inflearn.com/course/%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EC%9E%85%EB%AC%B8) 시청
 
 - 각자 폴더에 주차별 업로드 진행 (kimdongwon/example 참고).
 - [키워드 사전 및 Study 내용 간단 정리](./Content.md)
@@ -20,6 +21,7 @@
 - 반영훈
 - 송승찬
 - 오훈
+- 유아영 (4.12 합류)
 - 이용준
 - 조승희
 
@@ -34,6 +36,7 @@
 7. 박종하 (23.04.26) => 3312-Parameters, 2-Get_Return_Type
 8. 이용준 (23.05.3) => 3-Omit, 8-Readonly2
 9. 조승희 (23.05.10) => 10-TurnToUnion, 12-ChainableOptions
+10. 유아영 (23.05.17) => 15-Last of Array, 16 Pop
 
 ## 상의해야할 점
 
