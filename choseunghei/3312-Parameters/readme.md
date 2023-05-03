@@ -1,4 +1,4 @@
-# 898-Includes
+# 3312-Parameters
 
 ### 질문
 	내장 제네릭 Parameters<T>를 이를 사용하지 않고 구현하세요.

@@ -58,3 +58,6 @@ https://succulent-dog-eb0.notion.site/2-Get-Return-Type-ed6b3deb4c614bfa833c7431
 
 ## 3 - Omit
 https://succulent-dog-eb0.notion.site/3-Omit-6797eecde038425eb56237ccda4e79dd
+
+## 8 - ReadOnly2
+https://succulent-dog-eb0.notion.site/8-Readonly-2-12a07ccf13764d0aab2bc66d1889ddf1
