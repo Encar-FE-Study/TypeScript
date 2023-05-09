@@ -61,3 +61,11 @@ https://succulent-dog-eb0.notion.site/3-Omit-6797eecde038425eb56237ccda4e79dd
 
 ## 8 - ReadOnly2
 https://succulent-dog-eb0.notion.site/8-Readonly-2-12a07ccf13764d0aab2bc66d1889ddf1
+
+# 9 week
+
+## 9 - Deep-Readonly
+https://succulent-dog-eb0.notion.site/9-Deep-Readonly-1168ac091ae44605af9f755665d0f61a
+
+## 10 - Tuple-to-Union
+https://succulent-dog-eb0.notion.site/10-Tuple-to-Union-97cfd31d71bd4be4a07b373256dd8258
