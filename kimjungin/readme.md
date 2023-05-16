@@ -69,3 +69,11 @@ https://succulent-dog-eb0.notion.site/9-Deep-Readonly-1168ac091ae44605af9f755665
 
 ## 10 - Tuple-to-Union
 https://succulent-dog-eb0.notion.site/10-Tuple-to-Union-97cfd31d71bd4be4a07b373256dd8258
+
+# 10 week
+
+## 15 - Last-of-Array
+https://succulent-dog-eb0.notion.site/15-Last-of-Array-078488e160584147be63efa633abc6a2
+
+## 16 - Pop
+https://succulent-dog-eb0.notion.site/16-Pop-bcb7de38894b4622a6e80af13e15375d
