@@ -1,15 +1,15 @@
 # .github/workflows/cr.yml 파일 생성
- 
+
 name: Code Review
- 
+
 permissions:
   contents: read
   pull-requests: write
- 
+
 on:
   pull_request:
     types: [opened, synchronize]
- 
+
 jobs:
   test:
     runs-on: ubuntu-latest
